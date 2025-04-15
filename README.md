@@ -23,7 +23,7 @@ A Python application that uses computer vision to control your mouse cursor with
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/handTrackMouse.git
+git clone https://github.com/AruneshwarAR/handTrackMouse.git
 cd handTrackMouse
 ```
 
